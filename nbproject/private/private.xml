@@ -5,7 +5,9 @@
         <group>
             <file>file:/D:/Home-Service-Provider/src/java/com/Controllar/UserRegistration1.java</file>
             <file>file:/D:/Home-Service-Provider/src/java/com/Controllar/UserLogin1.java</file>
+            <file>file:/D:/Home-Service-Provider/web/MainAdmin/Admin/Admin/assets/css/style.css</file>
             <file>file:/D:/Home-Service-Provider/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Home-Service-Provider/web/MainAdmin/Admin/Admin/AdminHomePage.jsp</file>
         </group>
     </open-files>
 </project-private>
